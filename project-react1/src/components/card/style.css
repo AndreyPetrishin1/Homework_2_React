@@ -1,0 +1,13 @@
+img{
+    height:  375px;
+    width: 250px;
+    background-color: hsl(44, 85%, 10%);
+    border: 6px solid #57420a;
+    border-radius: 25px;
+	/* padding: 60px 40px; */
+    margin-left: -20px;
+    margin-top: 20px;
+	clip-path: polygon(0 0, 100% 4%, 100% 93%, 0 100%);
+   
+}
+

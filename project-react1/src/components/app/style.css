@@ -1,0 +1,13 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+#cr{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    margin: 44px;
+}
+#main{
+ background-color: rgb(141, 141, 141);
+}
